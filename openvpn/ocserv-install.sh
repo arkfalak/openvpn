@@ -10,7 +10,8 @@ curl -O https://raw.githubusercontent.com/arkfalak/openvpn/main/openvpn/ocserv.c
 cd
 sudo systemctl restart ocserv
 sudo cp /lib/systemd/system/ocserv.service /etc/systemd/system/ocserv.service
-sudo nano /etc/systemd/system/ocserv.service
+[ -f /etc/systemd/system/ocserv.service ] && sed -i "s/^#\?Requires=ocserv.socket.*/#Requires=ocserv.socket/g" /etc/systemd/system/ocserv.service;
+[ -f /etc/systemd/system/ocserv.service ] && sed -i "s/^#\?Also=ocserv.socket.*/#Also=ocserv.socket/g" /etc/systemd/system/ocserv.service;
 sudo systemctl daemon-reload
 sudo systemctl stop ocserv.socket
 sudo systemctl disable ocserv.socket
