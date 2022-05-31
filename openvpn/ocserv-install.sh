@@ -27,7 +27,7 @@ sudo iptables -t nat -L POSTROUTING
 sudo iptables -I INPUT -p tcp --dport 443 -j ACCEPT
 sudo iptables -I INPUT -p udp --dport 443 -j ACCEPT
 
-iptables-save > /etc/iptables.rules
+
 cd /etc/systemd/system/
 curl -O https://raw.githubusercontent.com/arkfalak/openvpn/main/openvpn/iptables-restore.service
 cd
@@ -72,4 +72,4 @@ sudo service rsyslog stop
 apt install htop
 apt install nload
 
-sudo reboot
+echo "happy ending"
