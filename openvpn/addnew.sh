@@ -1,80 +1,189 @@
 #!/bin/sh -x
-ocpasswd -c /etc/ocserv/ocpasswd -d ytv657
-ocpasswd -c /etc/ocserv/ocpasswd -d q354bw
-ocpasswd -c /etc/ocserv/ocpasswd -d gfd2tq
-ocpasswd -c /etc/ocserv/ocpasswd -d 6fg2a3
-ocpasswd -c /etc/ocserv/ocpasswd -d hxu5nb
-ocpasswd -c /etc/ocserv/ocpasswd -d w4x7ca
-ocpasswd -c /etc/ocserv/ocpasswd -d aHb7C5nJ
-ocpasswd -c /etc/ocserv/ocpasswd -d uNCYXPV6
-ocpasswd -c /etc/ocserv/ocpasswd -d WL8aU5FD
-ocpasswd -c /etc/ocserv/ocpasswd -d pVWq3SMs
-ocpasswd -c /etc/ocserv/ocpasswd -d QgY8GDeb
-ocpasswd -c /etc/ocserv/ocpasswd -d nc9FQye6
-ocpasswd -c /etc/ocserv/ocpasswd -d 7K2BYu8a
-ocpasswd -c /etc/ocserv/ocpasswd -d kmWr4uEc
-ocpasswd -c /etc/ocserv/ocpasswd -d zB8Djw5E
-ocpasswd -c /etc/ocserv/ocpasswd -d WQZ8LYh2
-ocpasswd -c /etc/ocserv/ocpasswd -d Tu7BJKXG
-ocpasswd -c /etc/ocserv/ocpasswd -d PB7NZJnd
-ocpasswd -c /etc/ocserv/ocpasswd -d Sz7vsQNt
-ocpasswd -c /etc/ocserv/ocpasswd -d NL4QAxjD
-ocpasswd -c /etc/ocserv/ocpasswd -d 8w3kyuCU
-ocpasswd -c /etc/ocserv/ocpasswd -d wh8y9mpC
-ocpasswd -c /etc/ocserv/ocpasswd -d FpQKhXZ5
-ocpasswd -c /etc/ocserv/ocpasswd -d Q2xDySjF
-ocpasswd -c /etc/ocserv/ocpasswd -d AuG4zh7q
-ocpasswd -c /etc/ocserv/ocpasswd -d 9Mvxw7LW
-ocpasswd -c /etc/ocserv/ocpasswd -d R6B4fDVT
-ocpasswd -c /etc/ocserv/ocpasswd -d JDjLK48R
-ocpasswd -c /etc/ocserv/ocpasswd -d 2ryjWc6J
-ocpasswd -c /etc/ocserv/ocpasswd -d a2nvcKXB
-ocpasswd -c /etc/ocserv/ocpasswd -d sJ65B2hp
-ocpasswd -c /etc/ocserv/ocpasswd -d te4PT3uw
-ocpasswd -c /etc/ocserv/ocpasswd -d T8NkfPZj
-ocpasswd -c /etc/ocserv/ocpasswd -d sdy3ZEUt
-ocpasswd -c /etc/ocserv/ocpasswd -d kAVKJe9u
-ocpasswd -c /etc/ocserv/ocpasswd -d C67gQPzs
-ocpasswd -c /etc/ocserv/ocpasswd -d YrZNMg9x
-ocpasswd -c /etc/ocserv/ocpasswd -d jPw9YrcL
-ocpasswd -c /etc/ocserv/ocpasswd -d ETpw3UfJ
-ocpasswd -c /etc/ocserv/ocpasswd -d r3SW7ZD5
-ocpasswd -c /etc/ocserv/ocpasswd -d ueNjv8fh
-ocpasswd -c /etc/ocserv/ocpasswd -d 9BC5Avj8
-ocpasswd -c /etc/ocserv/ocpasswd -d 72MraUQT
-ocpasswd -c /etc/ocserv/ocpasswd -d eXjxbW85
-ocpasswd -c /etc/ocserv/ocpasswd -d qFZKzj3g
-ocpasswd -c /etc/ocserv/ocpasswd -d eqC9TSdF
-ocpasswd -c /etc/ocserv/ocpasswd -d yg4mD256
-ocpasswd -c /etc/ocserv/ocpasswd -d 7DtNYzr6
-ocpasswd -c /etc/ocserv/ocpasswd -d XtuCb5HL
-ocpasswd -c /etc/ocserv/ocpasswd -d UbHypcm9
-ocpasswd -c /etc/ocserv/ocpasswd -d WH3vLRVY
-ocpasswd -c /etc/ocserv/ocpasswd -d XJGBmzT6
-ocpasswd -c /etc/ocserv/ocpasswd -d enp5x24M
-ocpasswd -c /etc/ocserv/ocpasswd -d J5uRpbVF
-ocpasswd -c /etc/ocserv/ocpasswd -d xJbfMc2G
-ocpasswd -c /etc/ocserv/ocpasswd -d zeSWv39N
-ocpasswd -c /etc/ocserv/ocpasswd -d ta2YxzLK
-ocpasswd -c /etc/ocserv/ocpasswd -d Z7UMySQ8
-ocpasswd -c /etc/ocserv/ocpasswd -d U5eECzmW
-ocpasswd -c /etc/ocserv/ocpasswd -d cY2pCFLs
-ocpasswd -c /etc/ocserv/ocpasswd -d X2sFmVAg
-ocpasswd -c /etc/ocserv/ocpasswd -d hWj49QRm
-ocpasswd -c /etc/ocserv/ocpasswd -d ETGf6rk5
-ocpasswd -c /etc/ocserv/ocpasswd -d T9F5eywg
-ocpasswd -c /etc/ocserv/ocpasswd -d hDdH4rUv
-ocpasswd -c /etc/ocserv/ocpasswd -d S6xYZB9q
-ocpasswd -c /etc/ocserv/ocpasswd -d tanhdU7G
-ocpasswd -c /etc/ocserv/ocpasswd -d SUKgPse7
-ocpasswd -c /etc/ocserv/ocpasswd -d Ys6djax4
-ocpasswd -c /etc/ocserv/ocpasswd -d cVaYN6Ur
-ocpasswd -c /etc/ocserv/ocpasswd -d DYzWVQL4
-ocpasswd -c /etc/ocserv/ocpasswd -d Q8a26Yxu
-ocpasswd -c /etc/ocserv/ocpasswd -d 4YZJHACm
-ocpasswd -c /etc/ocserv/ocpasswd -d A8ek7DdF
-ocpasswd -c /etc/ocserv/ocpasswd -d 6ZBsQaH5
-ocpasswd -c /etc/ocserv/ocpasswd -d VvWf9jXG
-ocpasswd -c /etc/ocserv/ocpasswd -d 6NzL5Ma9
-ocpasswd -c /etc/ocserv/ocpasswd -d vXRVk2nm
-ocpasswd -c /etc/ocserv/ocpasswd -d wDpYPX59
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd zrt2hw
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd gz427k
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd 7m34r8
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd yxdg89
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd 8g2ac3
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd 2j48qh
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd myc98k
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd 5wncpr
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd f6peqa
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd npe4tf
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd r62czm
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd z2fp8w
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd 8hckqp
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd 2fk64x
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd 5vxsmy
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd ca4vyx
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd uak4zg
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd 4quhb2
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd 5epmsy
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd rzd5hu
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd a8jqpg
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd 62548e
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd 9mfej6
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd px6mgr
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd cvx2ay
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd 5jgb8z
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd b6mf4a
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd 2pm34h
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd b3fjhg
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd g6mu3j
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd pwdx7u
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd 45wgsr
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd 7ehq4m
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd j249t5
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd wnrkf3
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd 8q5v3j
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd cgmp93
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd khwb37
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd s6n9jg
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd 9v6yka
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd A5veuJgp
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd uF5zfyWr
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd 2xnzb3VR
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd zR3XE5A7
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd DhE2ZRa9
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd Cb9sGFec
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd p9RtvWgb
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd X3Rhcn86
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd DMBdjV3L
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd sbVa7NHq
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd W52MHh4j
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd Y5ktLZaH
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd kj6fhueV
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd XzNG7T3f
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd AdLRx8Su
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd EUc4arxb
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd UX3YPEhS
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd dStsuAM7
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd gsnAM62k
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd Xj5FEZy9
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd Q5HMV9em
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd GLeXE3m5
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd DqLKR7PA
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd tHvmbwn5
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd E7Kd4ejT
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd Z6p2y3xS
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd w36gBFRh
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd L8GJxzFt
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd rYNJGp5v
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd AEsRZt3C
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd cHzfJ6Sw
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd xN92QLkM
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd 4aqCBrY9
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd stDS8C7P
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd YCAzPqr7
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd EBcRJDL5
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd Pp8V75Ak
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd NaR39FEf
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd 6nGdS8sQ
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd Y3pWkNbn
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd ayvW7fDF
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd 9xDjbqTN
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd PU7JLwFM
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd 9VJkHNG2
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd 5FRZHdNG
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd uTwY9CbD
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd 7tUC653j
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd tREw7kLx
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd HhPM4UeD
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd TjQ8hg6A
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd rZG5QejP
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd PR8gsBQv
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd Tf2KZJ9Y
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd zbj2kFec
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd EThdU7MQ
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd g8kcurZa
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd xHh7gP4s
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd cuneF6dU
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd gya9BTvF
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd AZq5DWyb
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd tbS5HMBD
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd QNTH8kB3
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd 4QkEDRXA
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd D2htscm5
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd N5aqw4SK
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd BwtLa3W9
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd yh7V6sb4
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd bVeuBL4R
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd 8MRdtJ6x
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd QZ2GwMdk
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd d5GDBXY8
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd RpEAQ9wC
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd 9mCQzeGb
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd 8HaNB4wk
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd Sjmga4RC
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd 7eCMJHNa
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd 39fhUsBk
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd B6qEKj8N
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd TRH4F9x2
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd hKH3DPmS
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd HTZt9jKL
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd Erkwe9SM
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd 35THRebp
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd g4Jj8p29
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd mgD2Gxdk
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd wkZz3aMc
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd UfVLcR3X
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd T2qcdE6F
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd 2t6CMHTP
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd gca9mnXy
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd TfnNMLK2
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd TSY2MLWm
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd 8BX4ZAGd
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd x96jMZuV
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd vU7V9Ma5
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd u8ZJjAGc
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd 2k9X3bBr
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd Dngy8Qah
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd 36pWQvbE
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd E2XSwJkf
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd 4VQ9HvBh
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd yPnQv783
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd KQUDx5WS
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd QAnK7HUY
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd w4p3yFQv
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd UT8jX7W9
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd qgVTtUK4
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd wJNKV8Mk
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd u5adTe2C
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd yFf5TpqM
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd 38SQhRKD
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd gCv7Vn3z
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd Q8TVrpfB
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd 67uV85tK
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd P2rNKeBU
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd 3ENGVLta
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd w2MzUX4V
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd UCZck7x9
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd dnM4EgXc
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd 7yUPCXEu
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd YjnqCf9K
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd P3g4twxj
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd Rfg6wqdh
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd 5mjT8Vsb
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd bDrtUF93
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd W8q9azfY
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd 74cvTbCr
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd NQry7xsp
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd D9RmJHsn
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd 8mEyb6YN
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd 5xz2sJ7b
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd LpCvAP6b
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd Fkvt8GqR
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd LMFYHSz8
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd qkHh6rtv
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd Tk2f9mUn
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd PZquFe7w
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd s2rvV6k7
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd TpX9F6sg
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd BnGt9ZL8
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd JqMA3pEj
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd gRdKQnU8
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd B2Kq8Zun
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd wFs78b6D
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd hS8GtABN
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd W6RT4BXj
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd Nw2mzBjD
+echo "111" | ocpasswd -c /etc/ocserv/ocpasswd MWkr8Hdn
